@@ -37,8 +37,11 @@ https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 * **MS-Excel Cheat Sheet:**	https://drive.google.com/file/d/1dGDoOiIhFFD71FxUxMO-ZYYE2UYLNGhR/view?usp=sharing
 
 <hr>
-**UML Classwork:**<br>
-![image](https://github.com/toarnabtrainer/USA_BA_251/assets/111301975/262ef1dd-8bd8-464c-aac1-2622999dedce)
+
+**UML Classwork:** <br>
+
+![image](https://github.com/toarnabtrainer/USA_BA_251/assets/111301975/35ca2ec3-5445-4c45-bbd4-fbb16b68325b)
+
 
 
 <hr>
